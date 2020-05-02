@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Will provide you more details in coming days!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+For now, this is our pic and visit to Disney Land, HK few months back.
+https://github.com/ritzapds/ritzapds.github.io/blob/master/images/Virat-Tvisha-HK-Disney-IMG_20191003_162743.jpg
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ritzapds@gmail.com)
