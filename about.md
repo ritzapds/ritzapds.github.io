@@ -8,7 +8,8 @@ Will provide you more details in coming days!
 
 ### More Information
 
-For now, this is our pic and visit to Disney Land, HK few months back.
+For now, this is our pic when we visited Disney Land, HK few months back.
+
 image:
 
 ![Our Photo](/images/Virat-Tvisha-HK-Disney-IMG_20191003_162743.jpg){:class="img-responsive"}
