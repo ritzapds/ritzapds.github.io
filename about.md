@@ -11,7 +11,7 @@ Will provide you more details in coming days!
 For now, this is our pic and visit to Disney Land, HK few months back.
 image:
 
-![Our Photo](/https://github.com/ritzapds/ritzapds.github.io/blob/master/images/Virat-Tvisha-HK-Disney-IMG_20191003_162743.jpg){:class="img-responsive"}
+![Our Photo](/images/Virat-Tvisha-HK-Disney-IMG_20191003_162743.jpg){:class="img-responsive"}
 
 ### Contact me
 
