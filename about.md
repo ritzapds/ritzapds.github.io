@@ -5,7 +5,11 @@ permalink: /about/
 avatar: https://ritzapds.github.io/images/Butterfly-image.png
 ---
 
-Will provide you more details in coming days!
+We will provide you with more details in coming days!
+We would like to share our thoughts on many topics like Music, Dance, Karate, School, Holidays, Vacation, About Friends and many many more such topics.
+
+Do watch for this space and our blogs.
+Happy Blogging.
 
 ### More Information
 
@@ -15,4 +19,5 @@ For now, this is our pic when we visited Disney Land, HK few months back.
 
 ### Contact me
 
+Do share your thoughts about our blogs over email. Sharing definitely helps to build a better world. 
 [viratvisha@viratvisha.com](mailto:ritzapds@gmail.com)
