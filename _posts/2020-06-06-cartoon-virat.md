@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cartoon Treat for All - Part 2/2!
+title: Cartoon Treat for All - By Virat!
 ---
 
 Last month was busy with our online schooling. I got one week of vacation and hence could take some time out to blog.
