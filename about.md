@@ -6,7 +6,7 @@ avatar: https://ritzapds.github.io/images/Butterfly-image.png
 ---
 
 We will provide you with more details in coming days!
-We would like to share our thoughts on many topics like Music, Dance, Karate, School, Holidays, Vacation, About Friends and many many more such topics.
+We would like to share our creations and thoughts on many topics like Music, Dance, Karate, School, Holidays, Vacation, About Friends and many many more such topics.
 
 Do watch out this space and to read out positively chargedi blogs.
 
