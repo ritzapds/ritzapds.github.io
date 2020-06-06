@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cartoon Treat for All - By Tvisha !
+title: Cartoon Treat for All - By Tvisha!
 ---
 
 Enjoy my cartoon art work as part of the school project.
